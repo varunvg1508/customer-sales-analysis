@@ -33,8 +33,7 @@ This project analyzes customer sales data using SQL and Power BI to identify sal
 - Dynamic visualizations for better decision-making.
 
 ## Dashboard Preview
-
-![Dashboard](cuustomer_analysis_Dashboard.png)
+![Dashboard](customer_analysis_Dashboard.png)
 
 ## Conclusion
 The dashboard provides valuable insights into customer purchasing behavior and sales performance, helping businesses monitor trends, identify opportunities, and make informed business decisions.
