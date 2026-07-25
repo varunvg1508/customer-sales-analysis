@@ -1,7 +1,7 @@
 # Customer Sales Analysis
 
 ## Overview
-This project analyzes customer sales data using SQL and Power BI to identify sales trends, customer purchasing behavior, and business performance. An interactive dashboard was developed to help visualize key metrics and support data-driven decision-making.
+This project analyzes customer sales data using SQL and Power BI to identify sales trends, customer purchasing behavior, and business performance. Dashboard was developed to help visualize key metrics and support data-driven decision-making.
 
 ## Tools & Technologies
 - SQL (MySQL)
